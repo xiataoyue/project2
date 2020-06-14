@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/James Xia/Desktop/temp/main.cpp
+simulation.h
+C:/Users/James Xia/Desktop/temp/simulation.h
+
+C:/Users/James Xia/Desktop/temp/server.h
+string
+-
+
+C:/Users/James Xia/Desktop/temp/simulation.cpp
+simulation.h
+C:/Users/James Xia/Desktop/temp/simulation.h
+
+C:/Users/James Xia/Desktop/temp/simulation.h
+server.h
+C:/Users/James Xia/Desktop/temp/server.h
+iostream
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+algorithm
+-
+

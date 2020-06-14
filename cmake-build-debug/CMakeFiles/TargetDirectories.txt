@@ -1,0 +1,4 @@
+C:/Users/James Xia/Desktop/temp/cmake-build-debug/CMakeFiles/Project2h.dir
+C:/Users/James Xia/Desktop/temp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/James Xia/Desktop/temp/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/James Xia/Desktop/temp/cmake-build-debug/CMakeFiles/edit_cache.dir
